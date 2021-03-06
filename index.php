@@ -79,9 +79,9 @@ footer { font-size:70%;
   	<h2>History of Medical Wearables</h2>
     <p>Most of the wearables on the market at the moment have optical heart rate monitors inside them. This is a monitor that uses flashing LEDs to penetrate the skin and detect blood flow. When light is reflected off the flow of blood, it’s captured by the sensors. The algorithm then gets to work to produce heart rate data. </p>
     <h2>From a 500ft View</h2>
-	<p>They key question for many people is 'why buy an ECG smartwatch?'. Well, for many (dare we say most people) the feature is something you'll likely use once and then forget about. But for a large subset of people, ECG is absoutely essential.
+	<p>They key question for many people is 'why buy an smartwatch?'. Well, for many (dare we say most people) the feature is something you'll likely use once and then forget about. But for a large subset of people, iCarewatch is absoutely essential.
 
-“ECG on wearables is super high value for a small segment. It is probably going to be more advantageous to our users over 50 than 20 - 25 year olds, but we're trying to build something for everybody," Dr Conor Heneghan, Director of Research Algorithms at Fitbit told Wareable.</p>
+“Wearables are super high value for a small segment. It is probably going to be more advantageous to our users over 50 than 20 - 25 year olds, but we're trying to build something for everybody," Dr Conor Heneghan, Director of Research Algorithms at Fitbit told Wareable.</p>
     </main>
     <footer>Copyrighted By Myron Green Sr&copy; 2021
     </footer>
