@@ -81,6 +81,15 @@ footer { font-size:70%;
     <h2>Company Email</h2>
   <li>E-mail: <a href="mailto:contact@iCareSystem.com">contact@iCareSystem.com</a></li>
    <li>Phone: 555-555-5555</li>
+
+   <h1>Contact Us</h1>
+<form method="get">
+First Name: <input type="text" name="fmail" id="fmail"><br><br>
+Last Name: <input type="text" name="lmail" id="lmail"><br><br>
+E-mail: <input type="text" name="email" id="email"><br><br>
+Comments:<br>
+<textarea name="comments" id="comments" rows="4" cols="40"></textarea><br><br>
+<input type="submit" value="Contact"> <input type="reset">
      
 
 
