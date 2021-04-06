@@ -65,9 +65,9 @@ footer { font-size:70%;
   <nav>
   <ul>
     <li><a href="index.php">Home</a></li>
-    <li><a href="menu.php">Menu</a></li>
-    <li><a href="directions.php">Directions</a></li>
+    <li><a href="services.php">Services</a></li>
     <li><a href="contact.php">Contact</a></li>
+    <li><a href="directions.php">Directions</a></li>
   </ul>
   </nav>
   <img src="iCarewatch.jpg" width="250" height="355" id="floatright" alt="iCarewatch">
@@ -81,7 +81,7 @@ footer { font-size:70%;
     <h2>Company Email</h2>
   <li>E-mail: <a href="mailto:contact@iCareSystem.com">contact@iCareSystem.com</a></li>
    <li>Phone: 555-555-5555</li>
-
+     
    <h1>Contact Us</h1>
 <form method="get">
 First Name: <input type="text" name="fmail" id="fmail"><br><br>
@@ -90,8 +90,6 @@ E-mail: <input type="text" name="email" id="email"><br><br>
 Comments:<br>
 <textarea name="comments" id="comments" rows="4" cols="40"></textarea><br><br>
 <input type="submit" value="Contact"> <input type="reset">
-     
-
 
 
       </main>
