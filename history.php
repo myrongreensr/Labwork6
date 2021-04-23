@@ -79,23 +79,23 @@ footer { font-size:70%;
   	<h2>Satisfied customers Experience "Daniel G."</h2>
     <p>My grandpa has had the best experience ever with Medical Guardian! They contacted family listed on his account when he fell and my grandpa was filled with the utmost joy to see everyone there for him. iCare System, you made a family very happy.</p>
     <h2>FAQ's</h2>
-	<h2>1. Who is the medical alert monitoring service right for?</h2>
+	<h2>1. Who is the iCare System Monitoring service right for?</h2>
 
-  <p>Medical alert systems make sense for seniors and people of all ages that live alone or spend long periods of time alone and may require emergency medical assistance. This can include those with medical conditions such as epilepsy, stroke, seizures, heart conditions, or those with a likelihood to suffer from a fall. In the event of an emergency situation, the person can quickly contact operators to have them dispatch police, ambulance, or firefighters or alert designated caregivers and contacts.</p>
+  <p>iCare Systems make sense for seniors and people of all ages that live alone or spend long periods of time alone and may require emergency medical assistance. This can include those with medical conditions such as epilepsy, stroke, seizures, heart conditions, or those with a likelihood to suffer from a fall. In the event of an emergency situation, the person can quickly contact operators to have them dispatch police, ambulance, or firefighters or alert designated caregivers and contacts.</p>
 
-<h2>2. What kind of services do medical alert systems provide?</h2>
+<h2>2. What kind of services do iCare System Monitor alert systems provide?</h2>
 
-<p>In the event of a medical emergency, personal alert systems allow the user to quickly get in touch with someone to send help. The medical alert operator will be prepared with all the important contacts including family, friends, physician, etc. for effective and fast assistance in the event of an emergency. The operators can also dispatch emergency professionals such as the police, paramedics, or firefighters when necessary.</p>
+<p>In the event of a medical emergency, personal alert systems allow the user to quickly get in touch with someone to send help. The iCare System Monitor operator will be prepared with all the important contacts including family, friends, physician, etc. for effective and fast assistance in the event of an emergency. The operators can also dispatch emergency professionals such as the police, paramedics, or firefighters when necessary.</p>
 
-<h2>3. What kind of devices do medical alert systems include?</h2>
+<h2>3. What kind of devices do iCare System Monitor systems include?</h2>
 
-<p>Medical alert solutions will offer a range of different devices that allow the user to instantly get help in case of a medical emergency. Medical alert systems offer different types of devices for at home or on-the-go mobile alerts.</p>
+<p>iCare System Monitor alert solutions will offer a range of different devices that allow the user to instantly get help in case of a medical emergency. iCare System Monitor alert systems offer different types of devices for at home or on-the-go mobile alerts.</p>
 
 The device may operate by pushing a button in order to communicate with an operator. At home systems usually connect to a landline, but do not require one. For more active users, the mobile alert systems provide GPS enabled systems with unlimited range. Services may also include fall detection and other add-ons.</p>
  
-<h2>4. What are medical alert bracelets? </h2>
+<h2>4. What are iCare System Monitor alert bracelets? </h2>
 
-<p>When it comes to medical alert equipment, carrying around a large device just isn’t a practical solution. For this reason, companies have created wearable devices that users can access at all times. Items like medical alert bracelets allow someone to wear their alert system comfortable and conveniently around their wrist. In this way, they can bring the device anywhere they go and have full protection on-the-go.The key question for many people is 'why buy an smartwatch?'. Well, for many (dare we say most people) the feature is something you'll likely use once and then forget about. But for a large subset of people, iCarewatch is absoutely essential.</p>
+<p>When it comes to iCare System Monitor alert equipment, carrying around a large device just isn’t a practical solution. For this reason, companies have created wearable devices that users can access at all times. Items like medical alert bracelets allow someone to wear their alert system comfortable and conveniently around their wrist. In this way, they can bring the device anywhere they go and have full protection on-the-go.The key question for many people is 'why buy an smartwatch?'. Well, for many (dare we say most people) the feature is something you'll likely use once and then forget about. But for a large subset of people, iCarewatch is absoutely essential.</p>
 
 
     
