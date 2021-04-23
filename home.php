@@ -66,7 +66,7 @@ footer { font-size:70%;
   <ul>
     <li><a href="index.php">Home</a></li>
     <li><a href="menu.php">Menu</a></li>
-    <li><a href="directions.php">Directions</a></li>
+    <li><a href="history.php">History</a></li>
     <li><a href="contact.php">Contact</a></li>
   </ul>
   </nav>
