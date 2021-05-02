@@ -7,7 +7,7 @@
 <body>
 <h1>iCare System Monitor</h1>
 <script type="text/javascript">
-  alert("Welcome iCare System Montior!");
+  alert("Welcome to the iCare System Montior where we help you own your health along with owning future!");
 </script>
 <h2>When does this display?</h2>
 </body>
