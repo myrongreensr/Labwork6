@@ -97,7 +97,20 @@ The device may operate by pushing a button in order to communicate with an opera
 
 <p>When it comes to iCare System Monitor alert equipment, carrying around a large device just isn’t a practical solution. For this reason, companies have created wearable devices that users can access at all times. Items like medical alert bracelets allow someone to wear their alert system comfortable and conveniently around their wrist. In this way, they can bring the device anywhere they go and have full protection on-the-go.The key question for many people is 'why buy an smartwatch?'. Well, for many (dare we say most people) the feature is something you'll likely use once and then forget about. But for a large subset of people, iCarewatch is absoutely essential.</p>
 
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>JavaScript Practice</title>
+<meta charset="utf-8">
+</head>
+<body>
+<h1>Using JavaScript</h1>
+<script type="text/javascript">
+  alert("Welcome iCare System Montior!");
+</script>
+<h2>When does this display?</h2>
+</body>
+</html>
     
 <!DOCTYPE html>
 <html lang="en">

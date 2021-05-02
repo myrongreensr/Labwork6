@@ -80,7 +80,7 @@ footer { font-size:70%;
     <p>Our Account Executives take the time to discuss your existing background screening program and help you make smart decisions that best meet your needs. </p>
     <h2>Company Email</h2>
   <li>E-mail: <a href="mailto:contact@iCareSystem.com">contact@iCareSystem.com</a></li>
-   <li>Phone: 555-555-5555</li>
+   <li>Phone: 972-227-5455</li>
      
    <h1>Contact Us</h1>
 <form method="get">

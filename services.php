@@ -81,8 +81,24 @@ By utilizing our RF/antenna, embedded firmware and full stack developers, we can
     <p>Our Account Executives take the time to discuss your existing background screening program and help you make smart decisions that best meet your needs. </p>
     <h2>Partners in Research</h2>
   <li>BioSensics Website: <a href="mailto:contact@iCareSystem.com">contact@iCareSystem.com</a></li>
-   <li>Phone: 555-555-5555</li>
+   <li>Phone: 972-227-5455</li>
      
+<head>
+<title>JavaScript Practice</title>
+<meta charset="utf-8">
+</head>
+<body>
+<h1>Using Javascript</h1>
+<script>
+  document.write("<h2>iCare System Monitor was designed with patient use in mind for “in-home” testing in the comfort of your everyday habits in life. This environment is more representative of your personal habits. The iCare System Monitor device’s simple operation and robust, noninvasive design, ensure the best possible experience.!</h2>");
+</script>
+<h3>This document was last modified on: 
+<script>
+document.write(document.lastModified);
+</script>
+</h3>
+</body>
+</html>
   
 <head>
 <title>Web Design Podcast</title>

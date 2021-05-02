@@ -69,6 +69,22 @@ footer { font-size:70%;
     <li><a href="history.php">History</a></li>
     <li><a href="contact.php">Contact</a></li>
   </ul>
+
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+<title>JavaScript Practice</title>
+<meta charset="utf-8">
+</head>
+<body>
+<h1>Using JavaScript</h1>
+<script type="text/javascript">
+  alert("Welcome iCare System Montior!");
+</script>
+<h2>When does this display?</h2>
+</body>
+</html>
+
   </nav>
   <main>
       <img src="iCarewatch.jpg" width="250" height="355" id="floatright" alt="iCarewatch">
