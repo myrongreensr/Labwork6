@@ -105,4 +105,23 @@ footer { font-size:70%;
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>JavaScript Practice</title>
+<meta charset="utf-8">
+</head>
+<body>
+
+</script>
+
+<h3>This document was last modified on: 
+<script type="text/javascript">
+<!--
+document.write(document.lastModified);
+// -->
+</script>
+</h3>
+</body>
+</html>
 

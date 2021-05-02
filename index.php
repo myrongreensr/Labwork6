@@ -82,6 +82,25 @@ footer { font-size:70%;
 	<p>The key question for many people is 'why buy an smartwatch?'. Well, for many (dare we say most people) the feature is something you'll likely use once and then forget about. But for a large subset of people, iCarewatch is absoutely essential.
 
 “Wearables are super high value for a small segment. It is probably going to be more advantageous to our users over 50 than 20 - 25 year olds, but we're trying to build something for everybody," Dr Conor Heneghan, Director of Research Algorithms at Fitbit told Wareable.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>JavaScript Practice</title>
+<meta charset="utf-8">
+</head>
+<body>
+
+</script>
+
+<h3>This document was last modified on: 
+<script type="text/javascript">
+<!--
+document.write(document.lastModified);
+// -->
+</script>
+</h3>
+</body>
+</html>
     </main>
     <footer>Copyrighted By Myron Green Sr&copy; 2021
     </footer>

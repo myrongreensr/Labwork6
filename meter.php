@@ -14,5 +14,24 @@
 <meter value="312"  min="0" max="14417">312</meter> &nbsp;&nbsp; 312 Opera<br>
 <meter value="200"  min="0" max="14417">200</meter> &nbsp;&nbsp; 200 other<br>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>JavaScript Practice</title>
+<meta charset="utf-8">
+</head>
+<body>
+
+</script>
+
+<h3>This document was last modified on: 
+<script type="text/javascript">
+<!--
+document.write(document.lastModified);
+// -->
+</script>
+</h3>
+</body>
+</html>
 </body>
 </html>

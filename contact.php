@@ -91,6 +91,25 @@ Comments:<br>
 <textarea name="comments" id="comments" rows="4" cols="40"></textarea><br><br>
 <input type="submit" value="Contact"> <input type="reset">
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>JavaScript Practice</title>
+<meta charset="utf-8">
+</head>
+<body>
+
+</script>
+
+<h3>This document was last modified on: 
+<script type="text/javascript">
+<!--
+document.write(document.lastModified);
+// -->
+</script>
+</h3>
+</body>
+</html>
 
       </main>
     <footer>Copyrighted By Myron Green Sr&copy; 2021
