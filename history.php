@@ -126,13 +126,15 @@ The device may operate by pushing a button in order to communicate with an opera
 </head>
 <body>
 
-</script>
-
 <h3>This document was last modified on: 
 <script type="text/javascript">
 <!--
 document.write(document.lastModified);
 // -->
+</script>
+</h3>
+</body>
+</html>
 
 
 </main>
