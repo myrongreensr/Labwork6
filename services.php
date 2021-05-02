@@ -83,22 +83,6 @@ By utilizing our RF/antenna, embedded firmware and full stack developers, we can
   <li>BioSensics Website: <a href="mailto:contact@iCareSystem.com">contact@iCareSystem.com</a></li>
    <li>Phone: 972-227-5455</li>
      
-<head>
-<title>JavaScript Practice</title>
-<meta charset="utf-8">
-</head>
-<body>
-<h1>Using Javascript</h1>
-<script>
-  document.write("<h2>iCare System Monitor was designed with patient use in mind for “in-home” testing in the comfort of your everyday habits in life. This environment is more representative of your personal habits. The iCare System Monitor device’s simple operation and robust, noninvasive design, ensure the best possible experience.!</h2>");
-</script>
-<h3>This document was last modified on: 
-<script>
-document.write(document.lastModified);
-</script>
-</h3>
-</body>
-</html>
   
 <head>
 <title>Web Design Podcast</title>
@@ -110,6 +94,23 @@ document.write(document.lastModified);
   <source src="podcast.mp3" type="audio/mpeg">
   <a href="podcast.mp3">Download the Podcast</a> (MP3)
 </audio>
+
+<head>
+<title>JavaScript Practice</title>
+<meta charset="utf-8">
+</head>
+<body>
+<h1>Developed with Customer in mind!!!</h1>
+<script>
+  document.write("<h2>iCare System Monitor was designed with patient use in mind for “in-home” testing in the comfort of your everyday habits in life. This environment is more representative of your personal habits. The iCare System Monitor device’s simple operation and robust, noninvasive design, ensure the best possible experience.!</h2>");
+</script>
+<h3>This document was last modified on: 
+<script>
+document.write(document.lastModified);
+</script>
+</h3>
+</body>
+</html>
 
 </body>
 </html>
